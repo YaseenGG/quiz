@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.next {
+    padding: 10px;
+    width: 100px;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+}
+.next:hover {
+    background-color: white;
+    color: black;
+}
